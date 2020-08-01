@@ -12,6 +12,8 @@ I'm might as well be the physical representation of a variety stream, I'm driven
 
 <img src="https://github-readme-stats.vercel.app/api?username=tronikart&show_icons=true&theme=gruvbox&bg_color=363a3a&title_color=b0c2bf&text_color=a2b0ae&icon_color=b0c2bf&hide=contribs,prs&line_height=30"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronikart&hide=css,html&true&theme=merko&bg_color=363a3a&title_color=a2b0ae&text_color=a2b0ae&icon_color=b0c2bf">
 
+*Keep in mind that this does not reflect my actual skills nor the range of languages I know, only the ones that are present in my GitHub*
+
 ### Things I do for work
 This doesn't mean I don't have fun while doing these, but just to reflect that I've gotten paid for these
 
