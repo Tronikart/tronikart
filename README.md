@@ -19,7 +19,7 @@ This doesn't mean I don't have fun while doing these, but just to reflect that I
 - **Dungeon Mastering** (Be it modules or homebrew sandbox, I enjoy DMing and I do it as a job, yeah seriously!)
 
 ### Things I do for fun
-I'm by no means an expert at these, my skill level fluctuates among these, they are driven by passion and enjoyment.
+I'm by no means an expert at these, my skill level varies among these, they are driven by passion and enjoyment.
 
 - **Video Editing** (Mostly to make gifs, but there was that one time where I made some [YouTube videos](https://www.youtube.com/tronikart))
 - **Audio Editing** (Looping stuff, cleaning voice recordings, audio editing for games)
@@ -35,5 +35,6 @@ I'm by no means an expert at these, my skill level fluctuates among these, they 
 - **👾 General Geek Culture**
 - **🎮 Gaming**
 - **📖 Learning**
+
 
 
