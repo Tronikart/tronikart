@@ -1,8 +1,13 @@
 <img src="https://raw.githubusercontent.com/Tronikart/tronikart/master/assets/Github.png">
 
+> Currently Learning: React
+
+| [LinkedIn](https://www.linkedin.com/in/-abrah/) |[Twitter](https://twitter.com/_Abrah) | [itch.io](https://tronikart.itch.io/) | [Game Jolt](https://gamejolt.com/@Tronikart) | [Twitch](https://www.twitch.tv/wickedwarriorrobot) | [D&D](http://latabernadeldragon.com/) |
+|--|--|--|--|--|--|
+
 ## Welcome to my GitHub, here's some info about me:
 
-*I'll be trying to contribute more to my repo, since I have been meaning to do this for a while, so excuse me if it's a bit barren*
+*I'll be trying to contribute more to my GitHub, since I have been meaning to do this for a while, so excuse me if it's a bit barren*
 
 ### Basic info
 
@@ -37,17 +42,4 @@ I'm by no means an expert at these, my skill level fluctuates among these, they 
 - **🎮 Gaming**
 - **📖 Learning**
 
-<!--
-**Tronikart/tronikart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
