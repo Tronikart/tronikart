@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/Tronikart/tronikart/master/assets/Github.png">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=tronikart&show_icons=true&theme=gruvbox&bg_color=363a3a&title_color=b0c2bf&text_color=a2b0ae&icon_color=b0c2bf&hide=contribs,prs&line_height=30"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tronikart&hide=css,html&true&theme=merko&bg_color=363a3a&title_color=a2b0ae&text_color=a2b0ae&icon_color=b0c2bf">
 
 <!--
 **Tronikart/tronikart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
