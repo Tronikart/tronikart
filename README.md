@@ -2,8 +2,9 @@
 
 > Currently Learning: React
 
-| [LinkedIn](https://www.linkedin.com/in/-abrah/) |[Twitter](https://twitter.com/_Abrah) | [itch.io](https://tronikart.itch.io/) | [Game Jolt](https://gamejolt.com/@Tronikart) | [Twitch](https://www.twitch.tv/wickedwarriorrobot) | [D&D](http://latabernadeldragon.com/) |
-|--|--|--|--|--|--|
+| [LinkedIn](https://www.linkedin.com/in/-abrah/) |[Twitter](https://twitter.com/_Abrah) | [Twitch](https://www.twitch.tv/wickedwarriorrobot) |
+|--|--|--|
+| [**Game Jolt**](https://gamejolt.com/@Tronikart) | [**itch.io**](https://tronikart.itch.io/) | [**D&D**](http://latabernadeldragon.com/) |
 
 I might as well be the physical representation of a variety stream, I'm driven by knowledge and self-improvement, and thanks to this most of my skills are self-taught, either for fun or I *really* wanted to try out something new.
 
