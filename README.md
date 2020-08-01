@@ -14,13 +14,13 @@ I'm might as well be the physical representation of a variety stream, I'm driven
 
 *Keep in mind that this does not reflect my actual skills nor the range of languages I know, only the ones that are present in my GitHub*
 
-### Things I do for work
+### Things I do as a job
 This doesn't mean I don't have fun while doing these, but just to reflect that I've gotten paid for these
 
 - **Coding** (Python automations (OCR, Neural Networks, RPA), Google Suite integrations with Apps Script, REST using Flask)
 - **Dungeon Mastering** (Be it modules or homebrew sandbox, I enjoy DMing and I do it as a job, yeah seriously!)
 
-### Things I do for fun
+### Things I do as a hobby
 I'm by no means an expert at these, my skill level varies among these, they are driven by passion and enjoyment.
 
 - **Video Editing** (Mostly to make gifs, but there was that one time where I made some [YouTube videos](https://www.youtube.com/tronikart))
