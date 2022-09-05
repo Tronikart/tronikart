@@ -1,8 +1,7 @@
 <img src="https://raw.githubusercontent.com/Tronikart/tronikart/master/assets/Github.png">
 
-> Currently Learning: UI/UX Design
+> Currently Learning: 3D Environmental Design
 
-> Currently Reading: Practical Game Design
 
 | [LinkedIn](https://www.linkedin.com/in/-abrah/) |[Twitter](https://twitter.com/_Abrah) | [Twitch](https://www.twitch.tv/wickedwarriorrobot) |
 |--|--|--|
